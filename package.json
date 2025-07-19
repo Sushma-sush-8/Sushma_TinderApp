@@ -1,0 +1,11 @@
+{
+  "name": "sushma_tinderapp",
+  "version": "1.0.0",
+  "description": "node js,javascript, express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushma Ananda",
+  "license": "ISC"
+}
